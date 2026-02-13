@@ -11,13 +11,10 @@
 ├── teams/
 │   └── <チーム名>/
 │       └── <プロジェクト名>/
-│           ├── 01_discovery/
-│           ├── 02_design/
-│           ├── 03_implementation/
-│           ├── 04_qa/
-│           ├── 05_release_readiness/
-│           ├── 06_deployment/
-│           └── 07_operations/
+│           ├── discovery/
+│           ├── design/
+│           ├── qa/
+│           └── operations/
 ├── products/
 │   └── <プロダクト名>/
 │       └── ... (TBD)
